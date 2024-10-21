@@ -3,17 +3,18 @@
 
  ![image](https://user-images.githubusercontent.com/69143883/194773259-a00a6520-bd7f-4064-a93f-5cd1d77246e7.png)
 
-This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
-
+This repository is open to all GitHub community members. Anyone can contribute without being an official collaborator.
 
 ## What is Hacktoberfest?
-A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+Hacktoberfest is a month-long celebration from October 1st - 31st, sponsored by Digital Ocean and GitHub. It encourages people to contribute to Open Source. Create your first pull request to any public repository and start contributing to the open-source developer community.
+
+For more details, visit the official website: Hacktoberfest.
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 ## How to make changes in Repo
-  Inside The language Folder Give your file name as same Algo name ,Write your code or make changes
-  and Submit Pull request
+ 1.Inside the language folder, name your file according to the algorithm you're implementing. \
+ 2. Write your code or make changes, then submit a pull request.
 
 ## Language
   1. [C](https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/)
