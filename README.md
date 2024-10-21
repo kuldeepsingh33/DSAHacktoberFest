@@ -30,40 +30,40 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 1. Fork this repository
 
 ```bash
-  Fork this repository and make changes in code as required. You can change it online or by cloning it in your device. Then Pust it on your Forked Repo for further Actions. Do not use special characters in the template above.
+ Fork the repository and make the necessary changes in the code. You can edit it online or by cloning it to your local machine.
 ```
 
-2.Clone your forked copy of the project.
+2.Clone your forked repository.
 ```bash
- git clone https://github.com/<your username>/DSA-Basic.git
+ git clone https://github.com/<your-username>/DSA-Basic.git
 ```
-3. Change the working directory
+3. Navigate to the project directory
 ```bash
-  cd DSA-Basic
+  cd DSAHacktoberFest
 ```
-4.Create a new branch.
+4.Create a new branch
 ```bash
   git checkout -b <branch-name>
 ```
-5.Perfom your desired changes to the code base.
+5.Make your changes.
 ```bash
- Make changes
+ Perform your desired modifications to the codebase.
 ```
-6.Track your changes
+6.Stage your changes
 ```bash
- git add -A
+ git add .
 ```
 7.Commit your changes 
 ```bash
- git commit -m "commit msg"
+git commit -m "Describe your changes"
 ```
-8.Push the committed changes in your feature branch to your remote repo.
+8.Push your changes to the remote repository.
 ```bash
 git push -u origin <branch_Name>
 ```
-9.To create a pull request, click on compare and pull requests. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
+Go to your forked repository, click on "Compare & pull request," and ensure you are comparing your feature branch with the appropriate branch of the original repository.
 
-### "Best of Luck " ✨
+### "Good luck! ✨ "
 
 
-### Show some ❤ by starring⭐ the repository.
+### If you enjoyed contributing, consider starring ⭐ this repository to show some love!.
