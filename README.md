@@ -1,5 +1,5 @@
 
- <h1 align="center"># DSA-Basic (Hacktoberfest-2024🔥)</h1>
+ <h1 align="center"># DSA-REPO-HACKTOBERFEST (Hacktoberfest-2024🔥)</h1>
 
  ![image](https://user-images.githubusercontent.com/69143883/194773259-a00a6520-bd7f-4064-a93f-5cd1d77246e7.png)
 
