@@ -36,7 +36,7 @@ For more details, visit the official website: Hacktoberfest.
 
 2.Clone your forked repository.
 ```bash
- git clone https://github.com/<your-username>/DSA-Basic.git
+ git clone https://github.com/<your-username>/DSAHacktoberFest.git
 ```
 3. Navigate to the project directory
 ```bash
